@@ -22,6 +22,7 @@ brew install <FORMULA>
 | [ec2-spot-interrupter](https://github.com/aws/amazon-ec2-spot-interrupter) | [formula](Formula/ec2-spot-interrupter.rb) | CLI tool that triggers Amazon EC2 Spot Interruption Notifications and Rebalance Recommendations |
 | [eks-anywhere](https://github.com/aws/eks-anywhere) | [formula](Formula/eks-anywhere.rb) | CLI tool for managing Amazon EKS Anywhere clusters |
 | [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) | [formula](Formula/eks-node-viewer.rb) | CLI tool for visualizing dynamic node usage within an EKS cluster. |
+| [eksctl](https://github.com/eksctl-io/eksctl) | [formula](Formula/eksctl.rb) | The official CLI for Amazon EKS |
 | [eksdemo](https://github.com/awslabs/eksdemo) | [formula](Formula/eksdemo.rb) | The easy button for learning, testing and demoing Amazon EKS |
 | k8s-tools | [formula](Formula/k8s-tools.rb) | Meta-package to install common Kubernetes tools |
 | [lightsailctl](https://github.com/aws/lightsailctl) | [formula](Formula/lightsailctl.rb) | Amazon Lightsail CLI Extensions |
@@ -32,6 +33,7 @@ brew install <FORMULA>
 | [cbmc-viewer](https://github.com/awslabs/aws-viewer-for-cbmc) | [formula](Formula/cbmc-viewer.rb) | CBMC Viewer scans the output of CBMC and produces a summary that can be opened in any web browser to understand and debug CBMC findings.
 | [dynamodb-shell](https://github.com/awslabs/dynamodb-shell) | [formula](Formula/aws-ddbsh.rb) | A simple SQL CLI for DynamoDB
 | [smithy-cli](https://github.com/awslabs/smithy) | [formula](Formula/smithy-cli.rb) | A CLI for building, validating, querying, and iterating on Smithy models
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh/)
